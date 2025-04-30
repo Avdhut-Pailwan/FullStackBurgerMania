@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BurgerMania\\FullStackBurgerMania\\BackendApi\\BurgerManiaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{054C11CD-9E0B-4E6E-8F48-2701453A612C}|BurgerManiaApi\\BurgerManiaApi.csproj|d:\\burgermania\\fullstackburgermania\\backendapi\\burgermaniaapi\\burgermaniaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054C11CD-9E0B-4E6E-8F48-2701453A612C}|BurgerManiaApi\\BurgerManiaApi.csproj|solutionrelative:burgermaniaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BurgerMania\\FullStackBurgerMania\\BackendApi\\BurgerManiaApi\\BurgerManiaApi\\Program.cs",
+              "RelativeDocumentMoniker": "BurgerManiaApi\\Program.cs",
+              "ToolTip": "D:\\BurgerMania\\FullStackBurgerMania\\BackendApi\\BurgerManiaApi\\BurgerManiaApi\\Program.cs",
+              "RelativeToolTip": "BurgerManiaApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:17:47.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
