@@ -1,0 +1,12 @@
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\Contracts\obj\Debug\net8.0\ref\Contracts.dll

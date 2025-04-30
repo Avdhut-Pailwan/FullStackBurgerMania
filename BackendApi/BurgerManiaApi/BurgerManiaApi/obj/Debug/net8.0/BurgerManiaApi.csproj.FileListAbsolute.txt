@@ -149,3 +149,10 @@ D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\obj
 D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\obj\Debug\net8.0\BurgerManiaApi.pdb
 D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\obj\Debug\net8.0\BurgerManiaApi.genruntimeconfig.cache
 D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\obj\Debug\net8.0\ref\BurgerManiaApi.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\bin\Debug\net8.0\nlog.config
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\bin\Debug\net8.0\NLog.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\bin\Debug\net8.0\Contracts.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\bin\Debug\net8.0\LoggerService.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\bin\Debug\net8.0\LoggerService.pdb
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\BurgerManiaApi\bin\Debug\net8.0\Contracts.pdb

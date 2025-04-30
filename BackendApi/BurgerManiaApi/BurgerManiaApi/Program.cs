@@ -1,3 +1,5 @@
+using BurgerManiaApi.Extensions;
+using NLog;
 
 namespace BurgerManiaApi
 {
@@ -7,26 +9,37 @@ namespace BurgerManiaApi
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
 
+            // Add services to the container.
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            // Custom services registration
+            builder.Services.ConfigureCors();
+            builder.Services.ConfigureIISIntegration();
+            builder.Services.ConfigureLoggerService();
 
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
+                app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI();
+            }
+            else
+            {
+                app.UseHsts();
             }
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
+            app.UseCors();
 
+            app.UseAuthorization();
 
             app.MapControllers();
 

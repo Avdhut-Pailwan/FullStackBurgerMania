@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "O6jQzsXpWdQ=",
+  "dgSpecHash": "CPMPasaLvrw=",
   "success": true,
   "projectFilePath": "D:\\BurgerMania\\FullStackBurgerMania\\BackendApi\\BurgerManiaApi\\BurgerManiaApi\\BurgerManiaApi.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\PY115299\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.15\\microsoft.entityframeworkcore.abstractions.8.0.15.nupkg.sha512",
     "C:\\Users\\PY115299\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.15\\microsoft.entityframeworkcore.analyzers.8.0.15.nupkg.sha512",
     "C:\\Users\\PY115299\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.15\\microsoft.entityframeworkcore.design.8.0.15.nupkg.sha512",
+    "C:\\Users\\PY115299\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.15\\microsoft.entityframeworkcore.inmemory.8.0.15.nupkg.sha512",
     "C:\\Users\\PY115299\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.15\\microsoft.entityframeworkcore.relational.8.0.15.nupkg.sha512",
     "C:\\Users\\PY115299\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.15\\microsoft.entityframeworkcore.sqlserver.8.0.15.nupkg.sha512",
     "C:\\Users\\PY115299\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.15\\microsoft.entityframeworkcore.tools.8.0.15.nupkg.sha512",
@@ -47,6 +48,8 @@
     "C:\\Users\\PY115299\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\PY115299\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\PY115299\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\PY115299\\.nuget\\packages\\nlog\\5.4.0\\nlog.5.4.0.nupkg.sha512",
+    "C:\\Users\\PY115299\\.nuget\\packages\\nlog.extensions.logging\\5.4.0\\nlog.extensions.logging.5.4.0.nupkg.sha512",
     "C:\\Users\\PY115299\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\PY115299\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\PY115299\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
