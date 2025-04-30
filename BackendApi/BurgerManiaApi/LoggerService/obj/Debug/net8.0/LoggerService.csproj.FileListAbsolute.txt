@@ -1,0 +1,16 @@
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\bin\Debug\net8.0\LoggerService.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\bin\Debug\net8.0\Contracts.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\bin\Debug\net8.0\Contracts.pdb
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\LoggerService.sourcelink.json
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\LoggerSe.E7AEA5A8.Up2Date
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\LoggerService.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+D:\BurgerMania\FullStackBurgerMania\BackendApi\BurgerManiaApi\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll
